@@ -1,0 +1,62 @@
+.resimSlider{
+
+    height: 400px;
+}
+
+body{
+    padding-top: 30px;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.hakkimizda{
+background-color:#e0ffff;
+}
+
+
+a:hover{
+
+background-color: lightblue;
+
+}
+
+
+
+footer {
+    background-color:lightblue;
+    color:white;
+    text-align:center;
+    clear:both;
+    padding:5px;	 	 
+}
+
+.card{
+    border: 0;
+ 
+}
+
+
+.card
+{
+
+  width: 70%;
+  float: left;
+  
+    background-color:royalblue;
+    width: 300px;
+    height: 200px;
+
+}
+.card:hover{
+    background-color:lightblue;
+}
+i{
+  align-items: center;
+}
+
+.card{
+        width: 330px;
+        height: 200px;
+        background-color:#6495ED;
+        margin:50px; 
+    }
+

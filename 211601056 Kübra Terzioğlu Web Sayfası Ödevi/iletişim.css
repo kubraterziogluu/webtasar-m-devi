@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+   background-color: lightblue;
+}
+
+a:hover{
+
+    background-color: lightblue;
+    
+    }
+    
+footer {
+    background-color:lightblue;
+    color:white;
+    text-align:center;
+    clear:both;
+    width: 1500px;
+
+}
+.b{
+    color: black;
+}
